@@ -1,0 +1,11 @@
+.ligne{
+    text-align: center;
+    font-family: "serif", sans-serif;
+    color: red;
+}
+
+.cssmenu{
+    background-color: palegreen;
+    font-family: "serif, sans-serif";
+    color: white;
+}
